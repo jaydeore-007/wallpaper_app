@@ -1,12 +1,16 @@
 <p align="center">
   <a href="https://flutter.io/">
-    <img src="https://diegolaballos.com/files/images/flutter-icon.jpg" alt="Logo" width=72 height=72>
+    <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="Logo" width=100>
   </a>
 
   <h3 align="center">Wallpaper App</h3>
 
   <p align="center">
     A simple Wallpaper App with Flutter,
+    
+https://github.com/jaydeore-007/wallpaper_app/assets/93081519/a91843b2-59b7-4118-a7ed-75efa7a47952
+
+
   </p>
 </p>
 
